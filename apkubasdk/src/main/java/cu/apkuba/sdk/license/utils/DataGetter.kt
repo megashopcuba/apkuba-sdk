@@ -5,6 +5,7 @@ import android.content.Intent
 import android.database.Cursor
 import androidx.core.net.toUri
 import com.orhanobut.logger.Logger
+import cu.apkuba.sdk.BuildConfig
 import cu.apkuba.sdk.license.models.AccountData
 import cu.uci.android.apklis_license_validator.ApklisDataGetter
 

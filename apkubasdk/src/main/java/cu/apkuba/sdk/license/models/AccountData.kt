@@ -1,8 +1,6 @@
 package cu.apkuba.sdk.license.models
 
-import kotlinx.serialization.Serializable
 
-@Serializable
 data class AccountData(
     val username: String?,
     val deviceId: String?,

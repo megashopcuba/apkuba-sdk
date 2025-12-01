@@ -65,7 +65,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.megashopcuba:ApKubaSdk:LATEST_VERSION")
+    implementation("com.github.megashopcuba:apkuba-sdk:LATEST_VERSION")
 }
 ```
 
@@ -73,7 +73,7 @@ dependencies {
 
 ```kotlin
 dependencies {
-    implementation 'com.github.megashopcuba:ApKubaSdk:LATEST_VERSION'
+    implementation 'com.github.megashopcuba:apkuba-sdk:LATEST_VERSION'
 }
 ```
 
@@ -81,7 +81,7 @@ dependencies {
 
 ### Útima versión
 
-[![](https://jitpack.io/v/megashopcuba/ApKubaSdk.svg)](https://jitpack.io/#megashopcuba/ApKubaSdk)
+[![](https://jitpack.io/v/megashopcuba/apkuba-sdk.svg)](https://jitpack.io/#megashopcuba/apkuba-sdk)
 
 ## 🚀 Uso Básico
 
@@ -298,13 +298,13 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](https://opens
 
 💬 Telegram: [@vs_helper](https://t.me/vs_helper)
 
-🐛 Issues: [GitHub Issues](https://github.com/megashopcuba/ApKubaSdk/issues)
+🐛 Issues: [GitHub Issues](https://github.com/megashopcuba/apkuba-sdk/issues)
 
-📱 Aplicación de prueba: [Descargar](https://github.com/megashopcuba/ApKubaSdk/blob/master/app/release/app-release.apk)
+📱 Aplicación de prueba: [Descargar](https://github.com/megashopcuba/apkuba-sdk/blob/master/app/release/app-release.apk)
 
-📖 Wiki: [Documentación completa](https://deepwiki.com/megashopcuba/ApKubaSdk) 
+📖 Wiki: [Documentación completa](https://deepwiki.com/megashopcuba/apkuba-sdk) 
 
-[![Preguntar DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/megashopcuba/ApKubaSdk)
+[![Preguntar DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/megashopcuba/apkuba-sdk)
 
 
 

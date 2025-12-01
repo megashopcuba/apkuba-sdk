@@ -18,6 +18,7 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageInfo
 import android.content.pm.PackageManager
+import android.net.Uri
 import android.os.Build
 import androidx.core.net.toUri
 import com.orhanobut.logger.Logger
@@ -260,7 +261,7 @@ object Utils {
         licenseUuid: String,
         publicKeyPem: String
     ): String {
-        return "${LICENSE_SCHEME}://$applicationId/?${PUBLIC_PEM_KEY}=$publicKeyPem&${LICENSE_UUID}=$licenseUuid"
+        return "${LICENSE_SCHEME}://$applicationId/?${PUBLIC_PEM_KEY}=${Uri.encode(publicKeyPem)}&${LICENSE_UUID}=$licenseUuid"
     }
 
 }
